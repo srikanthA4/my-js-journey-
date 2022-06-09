@@ -12,7 +12,7 @@ body {
 
 body:after {
     animation: grain 1s steps(10) infinite;
-    background-image: url(grains.png);
+/*     background-image: url(grains.png); */
     content: "";
     height: 300%;
     left: -50%;
